@@ -5,7 +5,7 @@
 #ifndef KRYSTAL_WINDOW_H
 #define KRYSTAL_WINDOW_H
 
-#include <Graphics/GLObjects/OpenGL.h>
+#include <GLFW/glfw3.h
 #include <vector>
 
 // Represents a Window on the user screen. Backend is platform dependant.
